@@ -1,2 +1,3 @@
-# cronometro-digital
-Criado um cronometro digital com tkinter
+# Cronômetro Digital
+
+Desenvolvido um cronômetro digital com tkinter
